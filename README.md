@@ -144,13 +144,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=k163791&layo
 
 # 🔥 GitHub Streak
 
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=k163791&theme=github-dark-blue&hide_border=true"
-/>
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=k163791&theme=github-dark-blue&hide_border=true)
 
 ---
 
